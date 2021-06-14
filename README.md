@@ -1,0 +1,2 @@
+# ada-boost
+MyAdaBoostClassifier class.
